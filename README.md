@@ -71,7 +71,7 @@ Make sure you have Python **3.8+** installed.
 
 #### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/WebIntel-AI.git
+git clone https://github.com/Pavansai-Guggilla/WebIntel-AI.git
 cd WebIntel-AI
 ```
 
